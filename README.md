@@ -15,6 +15,10 @@ For the transmission of these files, the software would need to support efficien
 The interchange of these files also brings potential for collaboration between users, where multiple individuals can contribute to the creation or modification of interactive media. This would involve a robust user interface that allows for easy hyperlink embedding, annotation, and editing of interactive elements. The interchange feature could utilize protocols for version control and file synchronization, ensuring that users can work together without overwriting important changes. Additionally, a marketplace or platform could emerge where users share and trade these interactive image and video files, creating a dynamic ecosystem for creative and commercial purposes.
 
 #
+
+Alex: "*I once wrote a markdown document so flawless, it got auto-published by every CMS on the web.*"
+
+#
 ### Related Links
 
 [GIF89a Specification](https://www.w3.org/Graphics/GIF/spec-gif89a.txt)
