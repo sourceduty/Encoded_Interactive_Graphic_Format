@@ -16,7 +16,7 @@ The interchange of these files also brings potential for collaboration between u
 
 #
 
-Alex: "*I once wrote a markdown document so flawless, it got auto-published by every CMS on the web.*"
+> Alex: "*I once wrote a markdown document so flawless, it got auto-published by every CMS on the web.*"
 
 #
 ### Related Links
