@@ -16,10 +16,6 @@ The interchange of these files also brings potential for collaboration between u
 
 #
 
-> Alex: "*I once wrote a markdown document so flawless, it got auto-published by every CMS on the web.*"
-
-#
-
 ![Formats](https://github.com/user-attachments/assets/5cb8aaac-5e6d-4964-a73d-66f347b92713)
 
 #
